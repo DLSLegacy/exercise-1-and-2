@@ -1,5 +1,5 @@
 [workspace]
-members = [
+members = EDI@L917532
     'node',
     'pallets/template',
     'runtime',
